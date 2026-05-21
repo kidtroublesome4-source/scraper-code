@@ -1,6 +1,4 @@
-These are the requirements for the project:
-1.one should have a code editor to run the project.
-2.one should have python installed to run the project.
-3.one should have the necessary libraries installed to run the project(csv,flask,bs4(beautifulsoup4)).
-4.one should have access to the output.csv file to read the data for the project.
-5.one should have basic knowledge of Python programming to understand and modify the code if needed.
+These are the libraries required for the project:
+csv
+requests
+bs4
